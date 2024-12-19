@@ -5,33 +5,30 @@
 </h2>
 
 <details>
- <details>
+ 
   <summary><h4> <img align="center" src="https://github.com/kevintata/kevintata/blob/main/icons/academics.gif" width="29"/>Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/University-Estacio De Sa-1877F2?style=for-the-badge"></span><br/>
+<!--   <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span> -->
  </details>
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/kevintata/kevintata/blob/main/icons/experience.gif" width="29"/>Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
+  - Software Development Intern at Inter & Co | 9 months - present
  </details>
-</details>
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/kevintata/kevintata/blob/main/icons/techstack.gif" width="29"/>Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  <img align="center" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%233178c6" />
+  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img align="center" src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB" />
 </details>
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/kevintata/kevintata/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/kevintata/kevintata/blob/main/icons/Contact.gif" width="29"/>Contact Me</h4></summary>
   <p>
     <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/kevintata/kevintata/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
+    <a href='https://www.linkedin.com/in/kevin-tatagiba/'>My LinkedIn</a>
   </p>
 </details>
+
 
